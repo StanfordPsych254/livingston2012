@@ -34,7 +34,9 @@ The planned sample is the mTurk population. As Livingston et al used the mTurk o
 
 The following is the passage participants will read.
 
-> The instructions page will read: "On the following page, you will read a brief biography and account of a workplace encounter. Please take a moment to read and consider it carefully. Take your time. You will be asked to answer a series of questions about this passage at a later time."
+The instructions page will read: 
+
+> On the following page, you will read a brief biography and account of a workplace encounter. Please take a moment to read and consider it carefully. Take your time. You will be asked to answer a series of questions about this passage at a later time.
 
 Then the vignette will read: 
 
@@ -44,7 +46,7 @@ Then the vignette will read:
 > 
 > When asked by [her/his] peers about how [she/he] was dealing with this mistake, [she/he] stated, [“I am a tough, determined boss and intend to do everything in my power to ensure that my employees’ performance improves.”/“I am a caring, committed boss and intend to do everything in my power to ensure that my employees’ performance improves.”]
 
-*Molly and Mark are intended to be interpreted as White, as these names are more stereotypically White. Aliyah and Darnell are intended to be interpreted as Black, as these names are more stereotypically Black. 
+*Molly and Mark are intended to be interpreted as White, as these names are more stereotypically White. Aliyah and Darnell are intended to be interpreted as Black, as these names are more stereotypically Black. Further cues to race are included in the business executive organizations targets are members of.
 
 We were unable to obtain the original materials used in the 2012 study, as the author who was in possession of the materials could not be reached. However, the above materials were synthesized using details gleaned from the original study and other similar studies that Livingston and colleagues have run, either together or individually, and represent a conceptual replication of the original study. 
 
