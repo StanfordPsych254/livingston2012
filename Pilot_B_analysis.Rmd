@@ -1,0 +1,78 @@
+---
+title:  "Pilot A Analysis"
+author: "Vivian Xiao"
+date: "February 26, 2017"
+output: 
+  html_document:
+    highlight: pygments
+    theme: flatly
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r load packages}
+#load packages needed for this assignment
+library(tidyverse)
+library(psych)
+```
+
+
+#Data cleaning
+```{r clean data}
+d = read.csv("~/Downloads/Pilot_B2.csv", stringsAsFactors = F)
+
+
+d.tidy = d %>%
+  filter(manipcheck == 0) %>%
+  dplyr::select(T_race, T_gender, T_behavior, lead_well, lead_max, lead_admire, lead_respec, salary, PvsS, race, age, gender,educ, workex,pol_s, pol_e) 
+
+d.tidy$T_race = as.factor(d.tidy$T_race)
+levels(d.tidy$T_race)[1] = "white"
+levels(d.tidy$T_race)[2] = "black"
+d.tidy$T_gender = as.factor(d.tidy$T_gender)
+levels(d.tidy$T_gender)[1] = "male"
+levels(d.tidy$T_gender)[2] = "female"
+d.tidy$T_behavior = as.factor(d.tidy$T_behavior)
+levels(d.tidy$T_behavior)[1] = "agentic"
+levels(d.tidy$T_behavior)[2] = "communal"
+
+
+d.tidy$lead_well = as.numeric(d.tidy$lead_well) 
+d.tidy$lead_max = as.numeric(d.tidy$lead_max)
+d.tidy$lead_admire = as.numeric(d.tidy$lead_admire)
+d.tidy$lead_respec = as.numeric(d.tidy$lead_respec)
+d.tidy$salary = as.numeric(d.tidy$salary)
+d.tidy$PvsS = as.numeric(d.tidy$PvsS)
+
+d.tidy$leadev = rowMeans(d.tidy[,4:8]) #make composite 
+lead = matrix(c(d.tidy$lead_well, d.tidy$lead_max, d.tidy$lead_admire, d.tidy$lead_respec,d.tidy$salary), ncol=5)
+alpha(lead) #reliability check -- won't run with the small dataset I have now, but should work in the future
+```
+
+
+#Analyses
+The main analyses from Livingston et al, 2012.
+```{r analysis}
+#summary(lm(leadev ~ T_race*T_gender*T_behavior, d.tidy)) #main 3 way interaction (leader evaluations)
+
+d.women = d.tidy %>%
+  filter(T_gender == "female")
+
+#summary(lm(leadev ~ T_race*T_behavior, d.women)) #2 way for women (leader evaluations)
+
+d.men = d.tidy %>%
+  filter(T_gender == "male")
+
+#summary(lm(leadev ~ T_race*T_behavior, d.men)) #2 way for men (leader evaluations)
+
+
+#summary(lm(PvsS ~ T_race*T_gender*T_behavior,d.tidy)) #3 way interaction (attribution of behavior)
+#summary(lm(PvsS ~ T_race*T_behavior,d.women)) #2 way for women (attribution of behavior)
+#summary(lm(PvsS ~ T_race*T_behavior,d.men)) #2 way for men (attribution of behavior)
+summary(lm(PvsS ~ T_race,d.tidy)) #main effect of race
+```
+

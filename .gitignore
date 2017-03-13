@@ -13,7 +13,6 @@
 *.doc
 *.jpg
 *.gif
-
 # Misc Knit Files
 *.aux
 *.gz
@@ -22,19 +21,15 @@
 *.rdb
 *.knit.md
 *cache
-
 # Other
-packrat/lib*/
 packrat/src*/
 *.httr-oauth
 *.DS_Store
-
 # MTurk credentials and data
 auth.json
 my-own-auth.json
 mturk/
-
-
 # Specific file keep
 !README.md
 !original_paper/LivingstonEtAl_2012.pdf
+.Rproj.user
