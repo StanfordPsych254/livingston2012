@@ -23,8 +23,8 @@ library(psych)
 
 #Data cleaning
 ```{r clean data}
-d = read.csv("~/Downloads/Pilot_B2.csv", stringsAsFactors = F)
-
+d = read.csv("~/Desktop/PSYC254/livingston2012/Pilot_B2.csv", stringsAsFactors = F)
+d$Q36_3 = as.numeric(d$Q36_3)
 
 d.tidy = d %>%
   filter(manipcheck == 0) %>%
