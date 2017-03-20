@@ -34,7 +34,6 @@ The planned sample is the mTurk population. As Livingston et al used the mTurk o
 
 The following is the passage participants will read.
 
-
 The instructions page will read: 
 
 > On the following page, you will read a brief biography and account of a workplace encounter. Please take a moment to read and consider it carefully. Take your time. You will be asked to answer a series of questions about this passage at a later time.
@@ -49,17 +48,6 @@ Then the vignette will read:
 
 *Molly and Mark are intended to be interpreted as White, as these names are more stereotypically White. Aliyah and Darnell are intended to be interpreted as Black, as these names are more stereotypically Black. Further cues to race are included in the business executive organizations targets are members of.
 
-The instructions page will read: "On the following page, you will read a brief biography and account of a workplace encounter. Please take a moment to read and consider it carefully. Take your time. You will be asked to answer a series of questions about this passage at a later time."
-
-Then the vignette will read: "[Molly/Aisha/Mark/Jamal]* Johnson is a Senior Vice President at a major consulting firm, where [she/he] has worked for twenty years. [She/He] obtained [her/his] BA in Economics from University of Southern California and [her/his] MBA from London Business School. The company sets forth as its mission: “To provide our clients with the highest quality services to address their business needs. We do so by recruiting and retaining the most diverse, passionate, and knowledgeable professionals and by providing a collaborative and open work environment that enables our employees to thrive.” Values that the company emphasizes include honesty and integrity, intellectual rigor, accountability, and the pursuit of excellence. 
-
-Recently, [Molly/Aisha/Mark/Jamal] Johnson's group nearly missed a deadline on a major project they were working on for an important client, with whom the company has had a longstanding relationship. [Ms./Mr.] Johnson discovered that this potentially costly mistake was largely due to one of [her/his] subordinates. When [she/he] called this employee into [her/his] office to discuss this matter, [she/he] issued reprimands, saying, [“I demand that you take steps to improve your performance.”/“I encourage you to take steps to improve your performance.”]
-
-When asked by [her/his] peers about how [she/he] was dealing with this mistake, [she/he] stated, [“I am a tough, determined boss and intend to do everything in my power to ensure that my employees’ performance improves.”/“I am a caring, committed boss and intend to do everything in my power to ensure that my employees’ performance improves.”]"
-
-*Molly and Mark are intended to be interpreted as White, as these names are more stereotypically White. Aisha and Jamal are inteded to be interpreted as Black, as these names are more stereotypically Black. 
-
-
 We were unable to obtain the original materials used in the 2012 study, as the author who was in possession of the materials could not be reached. However, the above materials were synthesized using details gleaned from the original study and other similar studies that Livingston and colleagues have run, either together or individually, and represent a conceptual replication of the original study. 
 
 Final survey to be administered can be found here: https://stanfordgsb.qualtrics.com/SE/?SID=SV_3UTmvTzvBqY0TXv
@@ -68,7 +56,6 @@ Final survey to be administered can be found here: https://stanfordgsb.qualtrics
 
 Quoted from the original article, the procedures is as follows (with certain modifications noted):
 
-
 > Participants were randomly assigned to one of eight conditions in a 2 (leader’s race: White vs. Black) × 2 (leader’s gender: male vs. female) × 2 (leader’s behavior: dominant vs. communal) between-subjects design. All participants were shown a description and photograph of a fictitious senior vice president who worked for a Fortune 500 company. The photographs were matched on perceived age, attractiveness, and “babyfaceness,” [1] and the descriptions included identical information about the leader’s education, company tenure, and leadership mission. The materials described a meeting between the leader and a subordinate employee who did not meet the company’s expectations. Dominant leaders were described as communicating their disappointment by demanding action (i.e., “I demand that you take steps to improve your performance”) and expressing assertiveness (i.e., “I am a tough, determined boss and intend to do everything in my power to ensure that your performance improves”). Communal leaders were described as encouraging the subordinate (i.e., “I encourage you to take steps to improve your performance”) and communicating compassion (i.e., “I am a caring, committed boss and intend to do everything in my power to ensure that your performance improves”).
 > 
 > Participants rated the leader on the following questions: “How well do you think the leader handled the situation with the employee?” “How effective is the leader at maximizing the employee’s performance?” “How much do you think the leader is admired by his or her employees?” and “How respected is this leader by the other executives at the company?” (Cronbach’s α = .89). We also assessed participants’ expectations regarding the leader’s salary by asking them to indicate what they thought the leader’s annual salary should be, using a scale ranging from 1 ($100,000) to 9 ($500,000). We combined these variables into a single composite score assessing the leader’s status in the organization. 
@@ -76,15 +63,6 @@ Quoted from the original article, the procedures is as follows (with certain mod
 > Finally, we assessed attributions for the leader’s behavior using the following item: “How much does the leader’s reaction reflect something about his/her personality versus something about the situation?” (1 = definitely the personality, 7 = definitely the situation). If dominance is proscribed for Black men and White women, then internal attributions should be higher for Black men and White women who “break the rules” by behaving dominantly than for Black men and White women who behave normatively by adhering to prescribed stereotypes. [2]
 
 [1] In our experiment, we only used the text manipulation, using manipulation of target names and mention of a membership in an organization for Black executives or simply executives as a manipulation of perceived race. Previous research has found that this type of manipulation is often sufficient to manipulate participants' perceptions of race (e.g. see Bertrand & Mullainathan, 2004), and we expected that the organization related to Black executives would prime race effectively, if all else fails. Because we were not able to obtain the original materials, we did not want to introduce more confounds by selecting our own faces to use. We did not know where the original authors obtained these stimuli nor what they looked like, besides that they were matched on age, attractiveness, and babyfacedness (though the authors did not mention what age they were matched at, etc.). In order to achieve a cleaner manipulation, we simply used names and mentions of the organizations individuals were members of to manipulate race.
-
-"Participants were randomly assigned to one of eight conditions in a 2 (leader’s race: White vs. Black) × 2 (leader’s gender: male vs. female) × 2 (leader’s behavior: dominant vs. communal) between-subjects design. All participants were shown a description and photograph of a fictitious senior vice president who worked for a Fortune 500 company. The photographs were matched on perceived age, attractiveness, and “babyfaceness,” [1] and the descriptions included identical information about the leader’s education, company tenure, and leadership mission. The materials described a meeting between the leader and a subordinate employee who did not meet the company’s expectations. Dominant leaders were described as communicating their disappointment by demanding action (i.e., “I demand that you take steps to improve your performance”) and expressing assertiveness (i.e., “I am a tough, determined boss and intend to do everything in my power to ensure that your performance improves”). Communal leaders were described as encouraging the subordinate (i.e., “I encourage you to take steps to improve your performance”) and communicating compassion (i.e., “I am a caring, committed boss and intend to do everything in my power to ensure that your performance improves”).
-
-Participants rated the leader on the following questions: “How well do you think the leader handled the situation with the employee?” “How effective is the leader at maximizing the employee’s performance?” “How much do you think the leader is admired by his or her employees?” and “How respected is this leader by the other executives at the company?” (Cronbach’s α = .89). We also assessed participants’ expectations regarding the leader’s salary by asking them to indicate what they thought the leader’s annual salary should be, using a scale ranging from 1 ($100,000) to 9 ($500,000). We combined these variables into a single composite score assessing the leader’s status in the organization. 
-
-Finally, we assessed attributions for the leader’s behavior using the following item: “How much does the leader’s reaction reflect something about his/her personality versus something about the situation?” (1 = definitely the personality, 7 = definitely the situation). If dominance is proscribed for Black men and White women, then internal attributions should be higher for Black men and White women who “break the rules” by behaving dominantly than for Black men and White women who behave normatively by adhering to prescribed stereotypes." [2]
-
-[1] In our experiment, we only used the text manipulation, using manipulation of target names as a manipulation of perceived race. Previous research has found that this type of manipulation is often sufficient to manipulate participants' perceptions of race (e.g. see Bertrand & Mullainathan, 2004). Because we were not able to obtain the original materials, we did not want to introduce more confounds by selecting our own faces to use. We did not know where the original authors obtained these stimuli nor what they looked like, besides that they were matched on age, attractiveness, and babyfacedness (though the authors did not mention what age they were matched at, etc.). In order to achieve a cleaner manipulation, we simply used names to manipulate race.
->>>>>>> origin/master
 
 [2] Although the authors did not explicitly state, we assume that they collected relevant demographic information, including but not limited to participant race and gender. In addition to these two variables, we also asked about participant age, educational background, work experience, social liberalism or conservatism, and economic liberalism or conservatism. While the authors did not report that they controlled for any of these demographic factors, it is possible that they have an impact on how targets are evaluated, especially political beliefs. Therefore, we include them with the potential to run additional analyses in addition to the main ones conducted by Livingston et al. 
 
@@ -100,11 +78,7 @@ In additional, exploratory analyses that are not meant to speak to the replicabi
 
 The differences from the original study reported here are assumed, but it is difficult to tell how similar or different this study is from the original, as we don't have the original materials. However, we have made every attempt to keep this study as conceptually close to the original as possible.
 
-
 One difference is that in our study, we use only the name manipulation and added another text manipulation, and not the photograph manipulation, as noted above. Again, this is because we were unsure of what pictures were used and where these images were selected from (or if the experimenters took the photographs themselves), and we did not want to introduce too many differences into the experiment. However, this change is not anticipated to have a huge impact on the results, as name manipulations have been shown previously to be effective in manipulating perceived race (e.g. Bertrand & Mullainathan, 2004). Therefore, the photographs may not be necessary to achieve the desired effect and in fact, in our case, may do more harm than good. As such, we decided that it might be a cleaner manipulation to only include name manipulations and manipulations of leadership organizations individuals were members of rather than names and photographs. 
-
-One difference is that in our study, we use only the name manipulation, and not the photograph manipulation, as noted above. Again, this is because we were unsure of what pictures were used and where these images were selected from (or if the experimenters took the photographs themselves), and we did not want to introduce too many differences into the experiment. However, this change is not anticipated to have a huge impact on the results, as name manipulations have been shown previously to be effective in manipulating perceived race (e.g. Bertrand & Mullainathan, 2004). Therefore, the photographs may not be necessary to achieve the desired effect and in fact, in our case, may do more harm than good. As such, we decided that it might be a cleaner manipulation to only include name manipulations rather than names and photographs. 
-
 
 Of course another difference is the passage itself. As much as possible, we used the exact wording used in the original study (e.g. the parts quoted in the article itself). We also made sure to include each part mentioned in the article, using the article itself as well as other studies carried out by Livingston and colleagues, together or individually, to guide our speculation of what exactly the content of the passage was. Although the wording and content of this passage will be inevitably different from the materials used in the original paper, we believe at this point that the passage is a fairly good conceptual replication of the passage used in the original study, meaning that it likely manipulates the same things and should produce the same effect, given that the effect is true. 
 
@@ -132,103 +106,19 @@ Data preparation following the analysis plan.
 ###Data Preparation
 
 ####Load Relevant Libraries and Functions
-library(tidyverse)
-library(psych)
-library(ggplot2)
 
 ####Import data
-#d = read.csv("~/Desktop/PSYC254/livingston2012/Final data.csv")
 
 #### Data exclusion / filtering
-#d.tidy = d %>%
-#  filter(manipcheck == 0) %>%
-#  dplyr::select(T_race, T_gender, T_behavior, lead_well, lead_max, lead_admire, lead_respect, salary, PvsS, race, age, gender,educ, workex,pol_s, pol_e) 
 
 #### Prepare data for analysis - create columns etc.
-#d.tidy$T_race = as.factor(d.tidy$T_race)
-#levels(d.tidy$T_race)[1] = "white"
-#levels(d.tidy$T_race)[2] = "black"
-#d.tidy$T_gender = as.factor(d.tidy$T_gender)
-#levels(d.tidy$T_gender)[1] = "male"
-#levels(d.tidy$T_gender)[2] = "female"
-#d.tidy$T_behavior = as.factor(d.tidy$T_behavior)
-#levels(d.tidy$T_behavior)[1] = "agentic"
-#levels(d.tidy$T_behavior)[2] = "communal"
-
-
-#d.tidy$lead_well = as.numeric(d.tidy$lead_well) 
-#d.tidy$lead_max = as.numeric(d.tidy$lead_max)
-#d.tidy$lead_admire = as.numeric(d.tidy$lead_admire)
-#d.tidy$lead_respect = as.numeric(d.tidy$lead_respect)
-#d.tidy$salary = as.numeric(d.tidy$salary)
-#d.tidy$PvsS = as.numeric(d.tidy$PvsS)
-
-#d.tidy$leadev = rowMeans(d.tidy[,4:8]) #make composite 
-#lead = matrix(c(d.tidy$lead_well, d.tidy$lead_max, d.tidy$lead_admire, d.tidy$lead_respect,d.tidy$salary), ncol=5)
-#alpha(lead) 
-
-#d.women = d.tidy %>%
-#  filter(T_gender == "female")
-
-#d.men = d.tidy %>%
-#  filter(T_gender == "male")
 ```
 
 ### Confirmatory analysis
 
 The analyses as specified in the analysis plan.  
 
-```{r}
-#hist(leadev)
-#hist(PvsS)
-
-#summary(lm(leadev ~ T_race*T_gender*T_behavior, d.tidy)) #main 3 way interaction (leader evaluations)
-
-
-#summary(lm(leadev ~ T_race*T_behavior, d.women)) #2 way for women (leader evaluations)
-
-
-#summary(lm(leadev ~ T_race*T_behavior, d.men)) #2 way for men (leader evaluations)
-
-
-#summary(lm(PvsS ~ T_race*T_gender*T_behavior,d.tidy)) #3 way interaction (attribution of behavior)
-#summary(lm(PvsS ~ T_race*T_behavior,d.women)) #2 way for women (attribution of behavior)
-#summary(lm(PvsS ~ T_race*T_behavior,d.men)) #2 way for men (attribution of behavior)
-#summary(lm(PvsS ~ T_race,d.tidy)) #main effect of race
-```
-
-Comparison of main findings with original study.
-```{r}
-original = data.frame(
-  race = factor(c("White","White", "Black", "Black","White","White", "Black", "Black"), levels=c("White","Black")),
-  gender = factor(c("Male", "Male","Male","Male", "Female","Female","Female","Female"), levels=c("Male","Female")),
-  behavior = factor(c("Dominant", "Communal"), levels=c("Dominant","Communal")),
-  leadev = c(3.11,3.25,1.97,4.06,2.23,3.85,3.05,3.32),
-  sd = c(1.36,1.24,.98,1.27,.7,1.24,.8,1.02)
-)
-
-ggplot(data=original, aes(x=race, y = leadev,fill=behavior, ymin=(original$leadev - .5*original$sd), ymax=(original$leadev + .5*original$sd))) +
-  facet_wrap(~gender)+ 
-  geom_bar(position="dodge", stat="identity") + 
-  geom_errorbar(position="dodge") +
-  labs(title = "Original plot of main finding from Livingston et al. (2012)",
-       x = "Leader type", 
-       y = "Leader status")
-```
-
-Original means and standard deviations of leader status score as function of leader's race, gender, and behavior -- as reported in Livingston et al., 2012. Erorr bars represent standard deviations.
-
-```{r}
-#ggplot(data=d.tidy, aes(x=T_race, y = leadev,fill=T_behavior, ymin=(d.tidy$leadev - .5*sd(d.tidy$leadev)), ymax=(d.tidy$leadev + .5*sd(d.tidy$leadev)))) +
-#  facet_wrap(~T_gender)+ 
-#  geom_bar(position="dodge", stat="identity") + 
-#  geom_errorbar(position="dodge") +
-#  labs(title = "Results from replication of Livingston et al. (2012)",
-#       x = "Leader type", 
-#       y = "Leader status")
-```
-
-Means and standard deviations of leader status score as function of leader's race, gender, and behavior -- as found in our replication. Erorr bars represent standard deviations.
+*Side-by-side graph with original graph is ideal here*
 
 ###Exploratory analyses
 
