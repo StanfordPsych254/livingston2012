@@ -196,7 +196,7 @@ Original means and standard deviations of leader status score as function of lea
 #  summarise(m_leadev = mean(leadev)) %>%
 #  summarise(sd_leadev = sd(leadev))
 
-#ggplot(data=d.tidy2, aes(x=T_race, y = leadev,fill=T_behavior, ymin=(m_leadev-.5*sd_leadev), ymax=(m_leadev + .5*se_leadev)))) +
+#ggplot(data=d.tidy2, aes(x=T_race, y = leadev,fill=T_behavior, ymin=(m_leadev-.5*sd_leadev), ymax=(m_leadev + .5*sd_leadev)))) +
 #  facet_wrap(~T_gender)+ 
 #  geom_bar(position="dodge", stat="identity") + 
 #  geom_errorbar(position="dodge") +
