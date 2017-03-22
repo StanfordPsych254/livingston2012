@@ -179,7 +179,11 @@ original = data.frame(
   sd = c(1.36,1.24,.98,1.27,.7,1.24,.8,1.02)
 )
 
+<<<<<<< HEAD
 ggplot(data=original, aes(x=race, y = leadev,fill=behavior, ymin=(original$leadev - .5*original$sd), ymax=(original$leadev + .5*original$sd))) +
+=======
+ggplot(data=original, aes(x=race, y = leadev,fill=behavior, ymin=(original$leadev - original$sd), ymax=(original$leadev + original$sd))) +
+>>>>>>> vlxiao/master
   facet_wrap(~gender)+ 
   geom_bar(position="dodge", stat="identity") + 
   geom_errorbar(position="dodge") +
@@ -196,7 +200,11 @@ Original means and standard deviations of leader status score as function of lea
 #  summarise(m_leadev = mean(leadev)) %>%
 #  summarise(sd_leadev = sd(leadev))
 
+<<<<<<< HEAD
 #ggplot(data=d.tidy2, aes(x=T_race, y = leadev,fill=T_behavior, ymin=(m_leadev-.5*sd_leadev), ymax=(m_leadev + .5*sd_leadev)))) +
+=======
+#ggplot(data=d.tidy2, aes(x=T_race, y = leadev,fill=T_behavior, ymin=(m_leadev-sd_leadev), ymax=(m_leadev + sd_leadev)))) +
+>>>>>>> vlxiao/master
 #  facet_wrap(~T_gender)+ 
 #  geom_bar(position="dodge", stat="identity") + 
 #  geom_errorbar(position="dodge") +
